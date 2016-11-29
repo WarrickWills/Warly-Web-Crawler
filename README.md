@@ -2,7 +2,7 @@
 
 Welcome to the War-ly WebCrawler. <br  />
 
-## These are some of the functionalities we offer with our search tool.
+## These are some of the functionalities offered with the tool.
 
 - At the “Please enter URL of desired site:” query, you can enter any webpage URL you want to query. 
  
